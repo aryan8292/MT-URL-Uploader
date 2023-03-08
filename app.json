@@ -9,7 +9,7 @@
   ],
   "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
   "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-  "repository": "https://github.com/MRK-YT/MT-URL-Uploader",
+  "repository": "https://github.com/aryan8292/MT-URL-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is! ANYTHING",
@@ -50,7 +50,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
